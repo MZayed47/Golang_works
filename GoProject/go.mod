@@ -1,4 +1,4 @@
-module GoProject
+module example/hello
 
 go 1.18
 
